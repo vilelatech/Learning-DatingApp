@@ -1,2 +1,2 @@
-# DatingApp Udemy Course repository
+# DatingApp repository
 
